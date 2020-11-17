@@ -8,8 +8,8 @@ metaTags:
   - Lead nurture process
   - Winning Product Canvas
   - User Experience
----
-
+  checklist: 
+  -
     order: 1
     question: Is the content provided on your website useful? 
     expectation: Provide information that's helpful to your visitors to build lasting relationships.
@@ -24,7 +24,7 @@ metaTags:
     question: Have you set in place automatic lead scoring? 
     expectation: Trigger notifications regarding high-ranked leads can help your sales team to measure results, review and improve.
     version: 1.0.0
-
+---
 
 ## Why
 
