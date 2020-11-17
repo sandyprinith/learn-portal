@@ -9,17 +9,17 @@ metaTags:
   - Winning Product
   - Market Sense
 checklist: 
-  -
+ -
     order: 1
     question: Is the created content relevant to the product's value proposition or the customers pain points? 
     expectation: Content created should address the pain points of your customers or be relevant to your value proposition.
     version: 1.0.0
-  -
+-
     order: 2
     question: Are you offering advice for customer pain points?
     expectation: Identify your customers problems and offer solutions that develop trust.
     version: 1.0.0
-  -
+-
     order: 3
     question: Are you listening to your cusomers?
     expectation: Monitor social media channels to understand your customers concerns and respond accordingly.
