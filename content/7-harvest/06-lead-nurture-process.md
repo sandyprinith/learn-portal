@@ -10,6 +10,22 @@ metaTags:
   - User Experience
 ---
 
+    order: 1
+    question: Is the content provided on your website useful? 
+    expectation: Provide information that's helpful to your visitors to build lasting relationships.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you analyzed the target persona?
+    expectation: Relevant content can only be created if the correct target audiance is identified
+    version: 1.0.0
+  -
+    order: 3
+    question: Have you set in place automatic lead scoring? 
+    expectation: Trigger notifications regarding high-ranked leads can help your sales team to measure results, review and improve.
+    version: 1.0.0
+
+
 ## Why
 
 A visitor to your site is not coming to purchase when they initially visit, they are coming for information. Unless you build a lasting relationship with these visitors, they hardly get converted to a sale. It’s observed that companies with successful lead nurturing generate 50% more sales ready leads at a 33% lower cost.
